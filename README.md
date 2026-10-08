@@ -1,17 +1,17 @@
-🌦️ Telegram Weather Bot
+Telegram Weather Bot
 
 A multilingual Telegram bot that provides real-time weather information for cities around the world using the OpenWeather API.
 
-✨ Features
+Features
 
-- 🌍 Get weather information for different cities.
-- 🌤️ Retrieve real-time weather data.
-- 🇺🇿 Uzbek language support.
-- 🇹🇷 Turkish language support.
-- 🇬🇧 English language support.
-- 🤖 Simple and user-friendly Telegram interface.
+- Get weather information for different cities.
+- Retrieve real-time weather data.
+- Uzbek language support.
+- Turkish language support.
+- English language support.
+- Simple and user-friendly Telegram interface.
 
-🛠️ Technologies Used
+Technologies Used
 
 - Python
 - pyTelegramBotAPI (TeleBot)
@@ -19,7 +19,7 @@ A multilingual Telegram bot that provides real-time weather information for citi
 - Requests
 - python-dotenv
 
-⚙️ Installation
+Installation
 
 1. Clone the repository
 
@@ -53,10 +53,6 @@ Replace the example values with your own credentials. Make sure your ".env" file
 
 python main.py
 
-🔐 Security
+For your Security
 
 Never share your Telegram bot token or OpenWeather API key publicly. Keep your ".env" file private.
-
-👨‍💻 Author
-
-Developed as a Python project to practice Telegram bot development, API integration, and environment variable management.
